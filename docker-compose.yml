@@ -1,0 +1,10 @@
+version: '3'
+services:
+  web:
+    image: nginx:alpine  # Use a lightweight Nginx image
+    volumes:
+      - ./:/usr/share/nginx/html:ro  # Mount current directory to Nginx's web root (read-only)
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    ports:
+      - 8012:8012   # Expose port 80 of the container on your host machine
+
