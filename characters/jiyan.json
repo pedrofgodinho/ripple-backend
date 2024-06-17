@@ -1,3 +1,29 @@
 {
-    "name": "Jiyan"
+    "name": "Jiyan",
+    "baseStats": {
+        "a0l01": { "baseHp": 839.00, "baseAtk": 35.00, "baseDef": 97.00 },
+        "a0l20": { "baseHp": 2181.40, "baseAtk": 91.00, "baseDef": 248.32 },
+        "a1l20": { "baseHp": 2741.85, "baseAtk": 116.55, "baseDef": 311.37 },
+        "a1l40": { "baseHp": 4155.15, "baseAtk": 175.00, "baseDef": 471.42 },
+        "a2l40": { "baseHp": 4706.79, "baseAtk": 202.30, "baseDef": 534.47 },
+        "a2l50": { "baseHp": 5419.94, "baseAtk": 231.35, "baseDef": 614.98 },
+        "a3l50": { "baseHp": 5982.07, "baseAtk": 258.30, "baseDef": 677.06 },
+        "a3l60": { "baseHp": 6686.83, "baseAtk": 287.70, "baseDef": 756.60 },
+        "a4l60": { "baseHp": 7247.28, "baseAtk": 312.90, "baseDef": 819.94 },
+        "a4l70": { "baseHp": 7955.23, "baseAtk": 344.05, "baseDef": 900.28 },
+        "a5l70": { "baseHp": 8514.17, "baseAtk": 361.55, "baseDef": 963.18 },
+        "a5l80": { "baseHp": 9220.61, "baseAtk": 390.83, "baseDef": 1042.75 },
+        "a6l80": { "baseHp": 9780.91, "baseAtk": 408.33, "baseDef": 1105.65 },
+        "a6l90": { "baseHp": 10487.50, "baseAtk": 437.50, "baseDef": 1185.53 }
+    },
+    "basicAttackStats": [],
+    "skillStats": [],
+    "liberationStats": [],
+    "forteCircuitStats": [
+        { "id": "qingloong_at_war", "type": "toggle", "stat": "skillDmg", "value": 0.5}
+    ],
+    "inherentSkillStats": [
+        { "id": "heavenly_balance", "type": "toggle", "stat": "atkPercent", "value": 0.10},
+        { "id": "tempest_taming", "type": "toggle", "stat": "critDmg", "value": 0.12}
+    ]
 }
