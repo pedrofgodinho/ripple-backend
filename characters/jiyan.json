@@ -1,5 +1,7 @@
 {
     "name": "Jiyan",
+    "element": "aero",
+    "weapon": "broadblade",
     "baseStats": {
         "a0l01": { "baseHp": 839.00, "baseAtk": 35.00, "baseDef": 97.00 },
         "a0l20": { "baseHp": 2181.40, "baseAtk": 91.00, "baseDef": 248.32 },

@@ -1,5 +1,10 @@
 {
     "characters": [
-        "jiyan"
+        {
+            "name": "Jiyan",
+            "weapon": "broadblade",
+            "element": "aero",
+            "id": "jiyan"
+        }
     ]
 }
