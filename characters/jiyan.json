@@ -21,23 +21,23 @@
     "basicAttackStats": [],
     "skillStats": [],
     "liberationStats": [],
-    "forteCircuitStats": [
-        { "id": "QingloongAtWar", "minStacks": 0, "maxStacks": 1, "stat": "SkillDmg", "value": 0.2}
-    ],
+    "forteCircuitStats": {
+        "qingloongAtWar": {"minStacks": 0, "maxStacks": 1, "stat": {"type": "SkillDmg", "value": 0.2}}
+    },
     "introStats": [],
     "outroStats": [],
-    "inherentSkillStats": [
-        { "id": "HeavenlyBalance", "minStacks": 0, "maxStacks": 1, "stat": "AtkPercent", "value": 0.10},
-        { "id": "TempestTaming", "minStacks": 0, "maxStacks": 1, "stat": "CritDmg", "value": 0.12}
-    ],
-    "statBonuses": [
-        { "id": "Bonus1", "minStacks": 0, "maxStacks": 1, "stat": "CritRate", "value": 0.012},
-        { "id": "Bonus2", "minStacks": 0, "maxStacks": 1, "stat": "CritRate", "value": 0.012},
-        { "id": "Bonus3", "minStacks": 0, "maxStacks": 1, "stat": "CritRate", "value": 0.028},
-        { "id": "Bonus4", "minStacks": 0, "maxStacks": 1, "stat": "CritRate", "value": 0.028},
-        { "id": "Bonus5", "minStacks": 0, "maxStacks": 1, "stat": "AtkPercent", "value": 0.018},
-        { "id": "Bonus6", "minStacks": 0, "maxStacks": 1, "stat": "AtkPercent", "value": 0.018},
-        { "id": "Bonus7", "minStacks": 0, "maxStacks": 1, "stat": "AtkPercent", "value": 0.042},
-        { "id": "Bonus8", "minStacks": 0, "maxStacks": 1, "stat": "AtkPercent", "value": 0.042}
-    ]
+    "inherentSkillStats": {
+        "heavenlyBalance": {"minStacks": 0, "maxStacks": 1, "stat": {"type": "AtkPercent", "value": 0.10}},
+        "tempestTaming": {"minStacks": 0, "maxStacks": 1, "stat": {"type": "CritDmg", "value": 0.12}}
+    },
+    "statBonuses": {
+        "bonus1": {"minStacks": 0, "maxStacks": 1, "stat": {"type": "CritRate", "value": 0.012}},
+        "bonus2": {"minStacks": 0, "maxStacks": 1, "stat": {"type": "CritRate", "value": 0.012}},
+        "bonus3": {"minStacks": 0, "maxStacks": 1, "stat": {"type": "CritRate", "value": 0.028}},
+        "bonus4": {"minStacks": 0, "maxStacks": 1, "stat": {"type": "CritRate", "value": 0.028}},
+        "bonus5": {"minStacks": 0, "maxStacks": 1, "stat": {"type": "AtkPercent", "value": 0.018}},
+        "bonus6": {"minStacks": 0, "maxStacks": 1, "stat": {"type": "AtkPercent", "value": 0.018}},
+        "bonus7": {"minStacks": 0, "maxStacks": 1, "stat": {"type": "AtkPercent", "value": 0.042}},
+        "bonus8": {"minStacks": 0, "maxStacks": 1, "stat": {"type": "AtkPercent", "value": 0.042}}
+    }
 }
