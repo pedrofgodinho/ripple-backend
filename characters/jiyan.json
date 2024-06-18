@@ -20,10 +20,22 @@
     "skillStats": [],
     "liberationStats": [],
     "forteCircuitStats": [
-        { "id": "qingloong_at_war", "type": "toggle", "stat": "skillDmg", "value": 0.5}
+        { "id": "qingloongAtWar", "type": "toggle", "stat": "skillDmg", "value": 0.2}
     ],
+    "introStats": [],
+    "outroStats": [],
     "inherentSkillStats": [
-        { "id": "heavenly_balance", "type": "toggle", "stat": "atkPercent", "value": 0.10},
-        { "id": "tempest_taming", "type": "toggle", "stat": "critDmg", "value": 0.12}
+        { "id": "heavenlyBalance", "type": "toggle", "stat": "atkPercent", "value": 0.10},
+        { "id": "tempestTaming", "type": "toggle", "stat": "critDmg", "value": 0.12}
+    ],
+    "statBonuses": [
+        { "id": "bonus1", "type": "toggle", "stat": "critRate", "value": 0.012},
+        { "id": "bonus2", "type": "toggle", "stat": "critRate", "value": 0.012},
+        { "id": "bonus3", "type": "toggle", "stat": "critRate", "value": 0.028},
+        { "id": "bonus4", "type": "toggle", "stat": "critRate", "value": 0.028},
+        { "id": "bonus5", "type": "toggle", "stat": "atkPercent", "value": 0.018},
+        { "id": "bonus6", "type": "toggle", "stat": "atkPercent", "value": 0.018},
+        { "id": "bonus7", "type": "toggle", "stat": "atkPercent", "value": 0.042},
+        { "id": "bonus8", "type": "toggle", "stat": "atkPercent", "value": 0.042}
     ]
 }
