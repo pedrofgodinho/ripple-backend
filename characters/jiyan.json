@@ -22,22 +22,22 @@
     "skillStats": [],
     "liberationStats": [],
     "forteCircuitStats": [
-        { "id": "QingloongAtWar", "type": "Toggle", "stat": "SkillDmg", "value": 0.2}
+        { "id": "QingloongAtWar", "minStacks": 0, "maxStacks": 1, "stat": "SkillDmg", "value": 0.2}
     ],
     "introStats": [],
     "outroStats": [],
     "inherentSkillStats": [
-        { "id": "HeavenlyBalance", "type": "Toggle", "stat": "AtkPercent", "value": 0.10},
-        { "id": "TempestTaming", "type": "Toggle", "stat": "CritDmg", "value": 0.12}
+        { "id": "HeavenlyBalance", "minStacks": 0, "maxStacks": 1, "stat": "AtkPercent", "value": 0.10},
+        { "id": "TempestTaming", "minStacks": 0, "maxStacks": 1, "stat": "CritDmg", "value": 0.12}
     ],
     "statBonuses": [
-        { "id": "Bonus1", "type": "Toggle", "stat": "CritRate", "value": 0.012},
-        { "id": "Bonus2", "type": "Toggle", "stat": "CritRate", "value": 0.012},
-        { "id": "Bonus3", "type": "Toggle", "stat": "CritRate", "value": 0.028},
-        { "id": "Bonus4", "type": "Toggle", "stat": "CritRate", "value": 0.028},
-        { "id": "Bonus5", "type": "Toggle", "stat": "AtkPercent", "value": 0.018},
-        { "id": "Bonus6", "type": "Toggle", "stat": "AtkPercent", "value": 0.018},
-        { "id": "Bonus7", "type": "Toggle", "stat": "AtkPercent", "value": 0.042},
-        { "id": "Bonus8", "type": "Toggle", "stat": "AtkPercent", "value": 0.042}
+        { "id": "Bonus1", "minStacks": 0, "maxStacks": 1, "stat": "CritRate", "value": 0.012},
+        { "id": "Bonus2", "minStacks": 0, "maxStacks": 1, "stat": "CritRate", "value": 0.012},
+        { "id": "Bonus3", "minStacks": 0, "maxStacks": 1, "stat": "CritRate", "value": 0.028},
+        { "id": "Bonus4", "minStacks": 0, "maxStacks": 1, "stat": "CritRate", "value": 0.028},
+        { "id": "Bonus5", "minStacks": 0, "maxStacks": 1, "stat": "AtkPercent", "value": 0.018},
+        { "id": "Bonus6", "minStacks": 0, "maxStacks": 1, "stat": "AtkPercent", "value": 0.018},
+        { "id": "Bonus7", "minStacks": 0, "maxStacks": 1, "stat": "AtkPercent", "value": 0.042},
+        { "id": "Bonus8", "minStacks": 0, "maxStacks": 1, "stat": "AtkPercent", "value": 0.042}
     ]
 }

@@ -74,7 +74,12 @@
             }
     },
     "passiveStats": [
-        { "type": "Passive", "stat": "CritRate", "value": 0.012},
-        { "type": "Stacking", "stat": "HeavyDmg", "value": 0.24, "maxStacks": 2}
+        { "id": "VerdantSummit1", "minStacks": 1, "maxStacks": 1, "stat": "GlacioDmg", "value": 0.12},
+        { "id": "VerdantSummit2", "minStacks": 1, "maxStacks": 1, "stat": "FusionDmg", "value": 0.12},
+        { "id": "VerdantSummit3", "minStacks": 1, "maxStacks": 1, "stat": "ElectroDmg", "value": 0.12},
+        { "id": "VerdantSummit4", "minStacks": 1, "maxStacks": 1, "stat": "AeroDmg", "value": 0.12},
+        { "id": "VerdantSummit5", "minStacks": 1, "maxStacks": 1, "stat": "SpectroDmg", "value": 0.12},
+        { "id": "VerdantSummit6", "minStacks": 1, "maxStacks": 1, "stat": "HavocDmg", "value": 0.12},
+        { "id": "VerdantSummit7", "minStacks": 0, "maxStacks": 2, "stat": "HeavyDmg", "value": 0.24}
     ]
 }
