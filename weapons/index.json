@@ -1,0 +1,9 @@
+{
+    "weapons": [
+        {
+            "name": "Verdant Summit",
+            "type": "broadblade",
+            "id": "verdantSummit"
+        }
+    ]
+}
