@@ -1,7 +1,7 @@
 {
     "name": "Jiyan",
-    "element": "aero",
-    "weapon": "broadblade",
+    "element": "Aero",
+    "weapon": "Broadblade",
     "baseStats": {
         "a0l01": { "baseHp": 839.00, "baseAtk": 35.00, "baseDef": 97.00 },
         "a0l20": { "baseHp": 2181.40, "baseAtk": 91.00, "baseDef": 248.32 },
@@ -22,22 +22,22 @@
     "skillStats": [],
     "liberationStats": [],
     "forteCircuitStats": [
-        { "id": "qingloongAtWar", "type": "toggle", "stat": "skillDmg", "value": 0.2}
+        { "id": "QingloongAtWar", "type": "Toggle", "stat": "SkillDmg", "value": 0.2}
     ],
     "introStats": [],
     "outroStats": [],
     "inherentSkillStats": [
-        { "id": "heavenlyBalance", "type": "toggle", "stat": "atkPercent", "value": 0.10},
-        { "id": "tempestTaming", "type": "toggle", "stat": "critDmg", "value": 0.12}
+        { "id": "HeavenlyBalance", "type": "Toggle", "stat": "AtkPercent", "value": 0.10},
+        { "id": "TempestTaming", "type": "Toggle", "stat": "CritDmg", "value": 0.12}
     ],
     "statBonuses": [
-        { "id": "bonus1", "type": "toggle", "stat": "critRate", "value": 0.012},
-        { "id": "bonus2", "type": "toggle", "stat": "critRate", "value": 0.012},
-        { "id": "bonus3", "type": "toggle", "stat": "critRate", "value": 0.028},
-        { "id": "bonus4", "type": "toggle", "stat": "critRate", "value": 0.028},
-        { "id": "bonus5", "type": "toggle", "stat": "atkPercent", "value": 0.018},
-        { "id": "bonus6", "type": "toggle", "stat": "atkPercent", "value": 0.018},
-        { "id": "bonus7", "type": "toggle", "stat": "atkPercent", "value": 0.042},
-        { "id": "bonus8", "type": "toggle", "stat": "atkPercent", "value": 0.042}
+        { "id": "Bonus1", "type": "Toggle", "stat": "CritRate", "value": 0.012},
+        { "id": "Bonus2", "type": "Toggle", "stat": "CritRate", "value": 0.012},
+        { "id": "Bonus3", "type": "Toggle", "stat": "CritRate", "value": 0.028},
+        { "id": "Bonus4", "type": "Toggle", "stat": "CritRate", "value": 0.028},
+        { "id": "Bonus5", "type": "Toggle", "stat": "AtkPercent", "value": 0.018},
+        { "id": "Bonus6", "type": "Toggle", "stat": "AtkPercent", "value": 0.018},
+        { "id": "Bonus7", "type": "Toggle", "stat": "AtkPercent", "value": 0.042},
+        { "id": "Bonus8", "type": "Toggle", "stat": "AtkPercent", "value": 0.042}
     ]
 }

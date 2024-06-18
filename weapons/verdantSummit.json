@@ -1,80 +1,80 @@
 {
     "name": "Verdant Summit",
-    "type": "broadblade",
+    "type": "Broadblade",
     "stats": {
             "a0l01": {
                 "baseAtk": 47,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.108
             },
             "a0l20": {
                 "baseAtk": 122,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.191
             },
             "a1l20": {
                 "baseAtk": 153,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.191
             },
             "a1l40": {
                 "baseAtk": 232,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.275
             },
             "a2l40": {
                 "baseAtk": 264,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.275
             },
             "a2l50": {
                 "baseAtk": 303,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.317
             },
             "a3l50": {
                 "baseAtk": 335,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.317
             },
             "a3l60": {
                 "baseAtk": 374,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.359
             },
             "a4l60": {
                 "baseAtk": 406,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.359
             },
             "a4l70": {
                 "baseAtk": 445,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.401
             },
             "a5l70": {
                 "baseAtk": 476,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.401
             },
             "a5l80": {
                 "baseAtk": 516,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.443
             },
             "a6l80": {
                 "baseAtk": 547,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.443
             },
             "a6l90": {
                 "baseAtk": 587,
-                "secondaryStat": "critDmg",
+                "secondaryStat": "CritDmg",
                 "secondaryStatValue": 0.486
             }
     },
     "passiveStats": [
-        { "type": "passive", "stat": "critRate", "value": 0.012},
-        { "type": "stacking", "stat": "heavyDmg", "value": 0.24, "maxStacks": 2}
+        { "type": "Passive", "stat": "CritRate", "value": 0.012},
+        { "type": "Stacking", "stat": "HeavyDmg", "value": 0.24, "maxStacks": 2}
     ]
 }
