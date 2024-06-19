@@ -1,0 +1,60 @@
+{
+    "id": "trainingBroadblade",
+    "name": "Training Broadblade",
+    "type": "Broadblade",
+    "stats": {
+            "a0l01": {
+                "baseAtk": 20,
+                "secondaryStat": "AtkPercent",
+                "secondaryStatValue": 0.025
+            },
+            "a0l20": {
+                "baseAtk": 52,
+                "secondaryStat": "AtkPercent",
+                "secondaryStatValue": 0.045
+            },
+            "a1l20": {
+                "baseAtk": 65,
+                "secondaryStat": "AtkPercent",
+                "secondaryStatValue": 0.045
+            },
+            "a1l40": {
+                "baseAtk": 99,
+                "secondaryStat": "AtkPercent",
+                "secondaryStatValue": 0.065
+            },
+            "a2l40": {
+                "baseAtk": 112,
+                "secondaryStat": "AtkPercent",
+                "secondaryStatValue": 0.065
+            },
+            "a2l50": {
+                "baseAtk": 129,
+                "secondaryStat": "AtkPercent",
+                "secondaryStatValue": 0.075
+            },
+            "a3l50": {
+                "baseAtk": 142,
+                "secondaryStat": "AtkPercent",
+                "secondaryStatValue": 0.075
+            },
+            "a3l60": {
+                "baseAtk": 159,
+                "secondaryStat": "AtkPercent",
+                "secondaryStatValue": 0.084
+            },
+            "a4l60": {
+                "baseAtk": 172,
+                "secondaryStat": "AtkPercent",
+                "secondaryStatValue": 0.084
+            },
+            "a4l70": {
+                "baseAtk": 190,
+                "secondaryStat": "AtkPercent",
+                "secondaryStatValue": 0.094
+            }
+    },
+    "passiveStats": {
+        "trainingBroadblade1": {"minStacks": 1, "maxStacks": 1, "stat": {"type": "AtkPercent", "value": 0.04}}
+    }
+}

@@ -5,5 +5,10 @@
             "type": "Broadblade",
             "id": "verdantSummit"
         }
+        {
+            "name": "Training Broadblade",
+            "type": "Broadblade",
+            "id": "trainingBroadblade"
+        }
     ]
 }
